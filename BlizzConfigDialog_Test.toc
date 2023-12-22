@@ -1,0 +1,14 @@
+## Interface: 100200
+## Title: BlizzConfigDialog TEST
+## Notes: A test for the BlizzConfigDialog library
+## OptionalDeps: _DebugLog
+## IconTexture: 463447
+## SavedVariables: BlizzConfigDialog_TestDB
+## Author: Belazor
+## Version: @project-version@
+
+embeds.xml
+
+Debug.lua
+
+BlizzConfigDialog_Test.lua
